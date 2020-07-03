@@ -6,3 +6,5 @@ This course is a part of IBM Data Science Professional Certificate.
  - Writing basic SQL statements: CREATE, DROP, SELECT, INSERT, UPDATE, DELETE
  - Filtering, sorting, grouping results, using built-in functions, accessing multiple tables (i.e. subqueries, JOIN statements, implicit JOIN)
  - Accessing databases from Jupyter using Python and work with real world datasets
+ - Relational databases concepts
+ - Relation databases constraints
